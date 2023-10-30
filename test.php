@@ -1,1 +1,4 @@
-testing is a file to learn deep 
+<?php
+
+echo "this is a testing a php file to learn a new process of git hub status.";
+?>
